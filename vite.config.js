@@ -8,7 +8,7 @@ export default defineConfig({
     },
   },
 
-  base: "./AnastasiiaHombalevska-2D-portfolio-game",
+  base: "./",
   build: {
     minify: "terser"
   }
